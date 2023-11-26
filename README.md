@@ -1,2 +1,1 @@
-# .github
-Inscribing Atlantis
+# Inscribing Atlantis
