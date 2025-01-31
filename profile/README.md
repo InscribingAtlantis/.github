@@ -1,5 +1,7 @@
 # Inscribing Atlantis
 
-Immutable. 
+Immutable.
+
 Eternal. 
+
 Inscribed on the Digital Megalith.
